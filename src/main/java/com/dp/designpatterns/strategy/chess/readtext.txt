@@ -1,0 +1,17 @@
+OO Basics :
+**********
+Abstraction
+Encapsulation
+Polymorphism
+Inheritance
+
+OO Principles:
+**************
+Design Principle 1 : Identify the aspects of your application that vary and seperate them from what stays the same.
+Design Principle 2 : Program to an interface, not an implementation.
+Design Principle 3 : Favor composition over inheritance.
+
+OO Pattern: Strategy
+**********
+Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+
