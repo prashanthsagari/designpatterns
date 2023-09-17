@@ -4,3 +4,7 @@
 4. Factory Method and Abstract Factory Design Pattern
 5. Singleton Pattern
 6. Command  Pattern
+7. Adapter and Facade
+8. template
+9. Iterator
+10. Composite
